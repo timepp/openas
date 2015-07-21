@@ -1,0 +1,9 @@
+.dub
+docs.json
+__dummy.html
+*.o
+*.obj
+openas.exe
+openas.sln
+openas.*.suo
+openas.visualdproj

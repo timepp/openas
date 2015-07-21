@@ -1,0 +1,8 @@
+{
+	"name": "openas",
+	"description": "Save input stream to temp file and view it with proper program",
+	"copyright": "Copyright(C) 2015, idtong",
+	"authors": ["idtong"],
+	"dependencies": {
+	}
+}
