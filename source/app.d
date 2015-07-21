@@ -26,10 +26,12 @@ int main(string[] argv)
 
     if (showHelp)
     {
-        writeln("openas: save stream and open it as specific file type. \n\n"
-                "Usage: openas <extension>\n"
+        writeln("openas 1.0.0\n"
+                "save stream and open it as specific file type. \n"
                 "\n"
-                "Example:\n"
+                "usage: openas <extension>\n"
+                "\n"
+                "example:\n"
                 "  echo 'a->b->c' | dot2dgml | openas dgml\n"
                 );
         return 0;
